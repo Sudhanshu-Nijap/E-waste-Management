@@ -178,6 +178,12 @@ nav{
     box-shadow: none;
 }
 
+form button{
+    background-color: #303054;
+    color: white;
+    padding: 8px;
+}
+
 
 /* Footer */
 footer{
